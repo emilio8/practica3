@@ -7,7 +7,6 @@
 </head>
 <body>
     <h1>Emilio Moral Diaz</h1>
-    <h2>Practica 3</h2>
     <?php
         date_default_timezone_set('Europe/Madrid');
         echo date('H:i:s');
